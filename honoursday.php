@@ -117,7 +117,10 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Scripting/EmptyPHPWebPage.php to 
                                     <div class="col-md-8 col-md-offset-2 text-center slider-text">
                                         <div class="slider-text-inner">
                                             <h1 class="heading-section">Honours Day</h1>
-                                            <h2>The days where we honours our top performing learners</a></h2>
+                                            <h2>This ceremony is a focal point of the school calendar when academic excellence is celebrated and recognized, 
+                                                This event offers our top achievers of the year an opportunity to revel in their success after they had worked 
+                                                so hard throughout the year. Prizes are presented in the whole range of subject areas, sporting achievements 
+                                                and work within the community.</h2>
                                         </div>
                                     </div>
                                 </div>
