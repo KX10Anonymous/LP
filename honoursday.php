@@ -86,17 +86,16 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Scripting/EmptyPHPWebPage.php to 
                                     <li><a href="index.php">Home</a></li>
                                     <li><a href="uniform.php">Uniform</a></li>
                                     <li><a href="teacher.php">Team</a></li>
+                                    <li><a href="sports.php">Sports</a></li>
                                     <li class="active"><a href="about.php">About</a></li>
                                     <li class="has-dropdown">
                                         <a href="blog.php">Events</a>
                                         <ul class="dropdown">
-                                            <li><a href="graduationr.php">Grade R Graduations</a></li>
                                             <li><a href="annualgraduation.php">Annual Graduations</a></li>
                                             <li><a href="honoursday.php">Honours Day</a></li>
-                                            <li><a href="honoursday.php">Sports</a></li>
                                         </ul>
                                     </li>
-                                    <li><a href="contact.html">Contact</a></li>
+                                    <li><a href="contact.php">Contact</a></li>
                                     <li class="btn-cta"><a href="login.php"><span>Login</span></a></li>
                                     <li class="btn-cta"><a href="edit.php"><span>Edit</span></a></li>
                                 </ul>
@@ -110,7 +109,7 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Scripting/EmptyPHPWebPage.php to 
             <aside id="fh5co-hero">
                 <div class="flexslider">
                     <ul class="slides">
-                        <li style="background-image: url(images/img_bg_4.jpg);">
+                        <li style="background-image: url(images/children1.jpg);">
                             <div class="overlay-gradient"></div>
                             <div class="container">
                                 <div class="row">
@@ -206,36 +205,36 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Scripting/EmptyPHPWebPage.php to 
             </div>
         </div>
         <footer id="fh5co-footer" role="contentinfo" style="background-image: url(images/education.jpg);">
-                <div class="overlay"></div>
-                <div class="container">
-                    <div class="row row-pb-md">
-                        <div class="col-md-3 fh5co-widget">
-                            <h3>About Lawley Primary School</h3>
-                            <p>We foster our students’ love for learning, encourage them to try new and exciting things, and give them a solid foundation to build on.</p>
-                        </div>
-                        <div class="col-md-2 col-sm-4 col-xs-6 col-md-push-1 fh5co-widget">
-                            <h3>Links</h3>
-                            <ul class="fh5co-footer-links">
-                                <li><a href="#">Team</a></li>
-                                <li><a href="#">Blog</a></li>
-                                <li><a href="#">Contact</a></li>
-                                <li><a href="#">Terms</a></li>
-                                <li><a href="#">School Program</a></li>
-                            </ul>
-                        </div>
+            <div class="overlay"></div>
+            <div class="container">
+                <div class="row row-pb-md">
+                    <div class="col-md-3 fh5co-widget">
+                        <h3>About Lawley Primary School</h3>
+                        <p>We foster our students’ love for learning, encourage them to try new and exciting things, and give them a solid foundation to build on.</p>
                     </div>
-
-                    <div class="row copyright">
-                        <div class="col-md-12 text-center">
-                            <p>
-                                <small class="block">&copy; 2022. All Rights Reserved.</small> 
-                                <small class="block">Designed by <a href="" target="_blank">Ronnie Mamidza & freehtml5.co</a> <a href="http://unsplash.co/" target="_blank">Unsplash</a> &amp; <a href="https://www.pexels.com/" target="_blank">Pexels</a></small>
-                            </p>
-                        </div>
+                    <div class="col-md-2 col-sm-4 col-xs-6 col-md-push-1 fh5co-widget">
+                        <h3>Links</h3>
+                        <ul class="fh5co-footer-links">
+                            <li><a href="#">Team</a></li>
+                            <li><a href="#">Blog</a></li>
+                            <li><a href="#">Contact</a></li>
+                            <li><a href="#">Terms</a></li>
+                            <li><a href="#">School Program</a></li>
+                        </ul>
                     </div>
-
                 </div>
-            </footer>
+
+                <div class="row copyright">
+                    <div class="col-md-12 text-center">
+                        <p>
+                            <small class="block">&copy; 2022. All Rights Reserved.</small> 
+                            <small class="block">Designed by <a href="" target="_blank">Ronnie Mamidza & freehtml5.co</a> <a href="http://unsplash.co/" target="_blank">Unsplash</a> &amp; <a href="https://www.pexels.com/" target="_blank">Pexels</a></small>
+                        </p>
+                    </div>
+                </div>
+
+            </div>
+        </footer>
 
         <div class="gototop js-top">
             <a href="#" class="js-gotop"><i class="icon-arrow-up"></i></a>

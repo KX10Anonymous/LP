@@ -103,16 +103,16 @@
                                     <li><a href="index.php">Home</a></li>
                                     <li><a href="uniform.php">Uniform</a></li>
                                     <li><a href="teacher.php">Team</a></li>
+                                    <li><a href="sports.php">Sports</a></li>
                                     <li class="active"><a href="about.php">About</a></li>
                                     <li class="has-dropdown">
                                         <a href="blog.php">Events</a>
                                         <ul class="dropdown">
-                                            <li><a href="graduationr.php">Grade R Graduations</a></li>
                                             <li><a href="annualgraduation.php">Annual Graduations</a></li>
                                             <li><a href="honoursday.php">Honours Day</a></li>
                                         </ul>
                                     </li>
-                                    <li><a href="contact.html">Contact</a></li>
+                                    <li><a href="contact.php">Contact</a></li>
                                     <li class="btn-cta"><a href="login.php"><span>Login</span></a></li>
                                     <li class="btn-cta"><a href="edit.php"><span>Edit</span></a></li>
                                 </ul>

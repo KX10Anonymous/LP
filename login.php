@@ -68,12 +68,7 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Scripting/EmptyPHPWebPage.php to 
         
         <!--PHP-->
         <?php
-            if(isset(filter_input(INPUT_POST, 'submit'))){
-               
-                $username = filter_input(INPUT_POST, 'username');
-                
-             
-            }
+           
         ?>
         <!--PHP-->
         <div id="page">

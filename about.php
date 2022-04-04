@@ -97,20 +97,21 @@
                             </div>
                             <div class="col-xs-10 text-right menu-1">
                                 <ul>
-                                    <li><a href="index.html">Home</a></li>
-                                    <li><a href="teacher.html">Team</a></li>
-                                    <li class="active"><a href="about.html">About</a></li>
+                                    <li><a href="index.php">Home</a></li>
+                                    <li><a href="uniform.php">Uniform</a></li>
+                                    <li><a href="teacher.php">Team</a></li>
+                                    <li><a href="sports.php">Sports</a></li>
+                                    <li class="active"><a href="about.php">About</a></li>
                                     <li class="has-dropdown">
-                                        <a href="blog.html">Events</a>
+                                        <a href="blog.php">Events</a>
                                         <ul class="dropdown">
-                                            <li><a href="#">Grade R Graduations</a></li>
-                                            <li><a href="#">Annual Graduations</a></li>
-                                            <li><a href="#">Honours Day</a></li>
+                                            <li><a href="annualgraduation.php">Annual Graduations</a></li>
+                                            <li><a href="honoursday.php">Honours Day</a></li>
                                         </ul>
                                     </li>
-                                    <li><a href="contact.html">Contact</a></li>
-                                    <li class="btn-cta"><a href="#"><span>Login</span></a></li>
-                                    <li class="btn-cta"><a href="#"><span>Edit</span></a></li>
+                                    <li><a href="contact.php">Contact</a></li>
+                                    <li class="btn-cta"><a href="login.php"><span>Login</span></a></li>
+                                    <li class="btn-cta"><a href="edit.php"><span>Edit</span></a></li>
                                 </ul>
                             </div>
                         </div>

@@ -101,8 +101,9 @@
                             <div class="col-xs-10 text-right menu-1">
                                 <ul>
                                     <li><a href="index.php">Home</a></li>
-                                    <li><a href="courses.php">Courses</a></li>
+                                    <li><a href="uniform.php">Uniform</a></li>
                                     <li><a href="teacher.php">Team</a></li>
+                                    <li><a href="sports.php">Sports</a></li>
                                     <li class="active"><a href="about.php">About</a></li>
                                     <li class="has-dropdown">
                                         <a href="blog.php">Events</a>
@@ -111,7 +112,7 @@
                                             <li><a href="honoursday.php">Honours Day</a></li>
                                         </ul>
                                     </li>
-                                    <li><a href="contact.html">Contact</a></li>
+                                    <li><a href="contact.php">Contact</a></li>
                                     <li class="btn-cta"><a href="login.php"><span>Login</span></a></li>
                                     <li class="btn-cta"><a href="edit.php"><span>Edit</span></a></li>
                                 </ul>
@@ -125,14 +126,17 @@
             <aside id="fh5co-hero">
                 <div class="flexslider">
                     <ul class="slides">
-                        <li style="background-image: url(images/img_bg_4.jpg);">
+                        <li style="background-image: url(images/children8.jpeg);">
                             <div class="overlay-gradient"></div>
                             <div class="container">
                                 <div class="row">
                                     <div class="col-md-8 col-md-offset-2 text-center slider-text">
                                         <div class="slider-text-inner">
-                                            <h1 class="heading-section">Our Faculty</h1>
-                                            <h2>Complete Staff</a></h2>
+                                            <h1 class="heading-section">Our Staff</h1>
+                                            <h2>Our dedicated teachers and supporting staff are a major factor in the success of this school.
+                                                Teachers are drawn to the family because of our robust model 
+                                                that emphasizes project-based learning, art and technology and a supportive 
+                                                environment in which everyone is accountable for helping students reach the goal of being educated</a></h2>
                                         </div>
                                     </div>
                                 </div>
@@ -147,7 +151,7 @@
                     <div class="row">
                         <div class="col-md-3 text-center">
                             <div class="staff">
-                                <div class="staff-img" style="background-image: url(images/staff-1.jpg);">
+                                <div class="staff-img" style="background-image: url(images/shelembe.jpg);">
                                     <ul class="fh5co-social">
                                         <li><a href="#"><i class="icon-facebook2"></i></a></li>
                                         <li><a href="#"><i class="icon-twitter2"></i></a></li>
@@ -155,14 +159,14 @@
                                         <li><a href="#"><i class="icon-github"></i></a></li>
                                     </ul>
                                 </div>
-                                <span>Demo Role</span>
-                                <h3><a href="#">Demo Name</a></h3>
+                                <span>Teacher</span>
+                                <h3><a href="#">Shelembe</a></h3>
                                 <p>Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text </p>
                             </div>
                         </div>
                         <div class="col-md-3 animate-box text-center">
                             <div class="staff">
-                                <div class="staff-img" style="background-image: url(images/staff-2.jpg);">
+                                <div class="staff-img" style="background-image: url(images/mthimkhulu.jpg);">
                                     <ul class="fh5co-social">
                                         <li><a href="#"><i class="icon-facebook2"></i></a></li>
                                         <li><a href="#"><i class="icon-twitter2"></i></a></li>
@@ -170,14 +174,14 @@
                                         <li><a href="#"><i class="icon-github"></i></a></li>
                                     </ul>
                                 </div>
-                                <span>Demo Role</span>
-                                <h3><a href="#">Demo Name</a></h3>
-                                <p>Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text </p>
+                                <span>Teacher</span>
+                                <h3><a href="#">K Mthimkhulu</a></h3>
+                                <p>Teaches Life Skills in Grade 4 and 6 as well as Life Orientation and Languages.</p>
                             </div>
                         </div>
                         <div class="col-md-3 animate-box text-center">
                             <div class="staff">
-                                <div class="staff-img" style="background-image: url(images/staff-3.jpg);">
+                                <div class="staff-img" style="background-image: url(images/delibo2.jpg);">
                                     <ul class="fh5co-social">
                                         <li><a href="#"><i class="icon-facebook2"></i></a></li>
                                         <li><a href="#"><i class="icon-twitter2"></i></a></li>
@@ -185,14 +189,15 @@
                                         <li><a href="#"><i class="icon-github"></i></a></li>
                                     </ul>
                                 </div>
-                                <span>Demo Role</span>
-                                <h3><a href="#">Demo Name</a></h3>
+                                <span>Teacher</span>
+                                <h3><a href="#">Delibo</a></h3>
                                 <p>Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text </p>
                             </div>
                         </div>
+
                         <div class="col-md-3 animate-box text-center">
                             <div class="staff">
-                                <div class="staff-img" style="background-image: url(images/staff-1.jpg);">
+                                <div class="staff-img" style="background-image: url(images/mkhonza.jpg);">
                                     <ul class="fh5co-social">
                                         <li><a href="#"><i class="icon-facebook2"></i></a></li>
                                         <li><a href="#"><i class="icon-twitter2"></i></a></li>
@@ -200,24 +205,9 @@
                                         <li><a href="#"><i class="icon-github"></i></a></li>
                                     </ul>
                                 </div>
-                                <span>Demo Role</span>
-                                <h3><a href="#">Demo Name</a></h3>
-                                <p>Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text </p>
-                            </div>
-                        </div>
-                        <div class="col-md-3 animate-box text-center">
-                            <div class="staff">
-                                <div class="staff-img" style="background-image: url(images/staff-1.jpg);">
-                                    <ul class="fh5co-social">
-                                        <li><a href="#"><i class="icon-facebook2"></i></a></li>
-                                        <li><a href="#"><i class="icon-twitter2"></i></a></li>
-                                        <li><a href="#"><i class="icon-dribbble2"></i></a></li>
-                                        <li><a href="#"><i class="icon-github"></i></a></li>
-                                    </ul>
-                                </div>
-                                <span>Demo Role</span>
-                                <h3><a href="#">Demo Name</a></h3>
-                                <p>Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text </p>
+                                <span>Teacher</span>
+                                <h3><a href="#">Mkhonza</a></h3>
+                                <p>Currently teaching mathematics in grades 6 and 7, as well as life skills, and was also a co-coordinator for sports </p>
                             </div>
                         </div>
                         <div class="col-md-3 animate-box text-center">
@@ -237,7 +227,7 @@
                         </div>
                         <div class="col-md-3 animate-box text-center">
                             <div class="staff">
-                                <div class="staff-img" style="background-image: url(images/staff-2.jpg);">
+                                <div class="staff-img" style="background-image: url(images/ngobeni.jpg);">
                                     <ul class="fh5co-social">
                                         <li><a href="#"><i class="icon-facebook2"></i></a></li>
                                         <li><a href="#"><i class="icon-twitter2"></i></a></li>
@@ -245,14 +235,14 @@
                                         <li><a href="#"><i class="icon-github"></i></a></li>
                                     </ul>
                                 </div>
-                                <span>Demo Role</span>
-                                <h3><a href="#">Demo Name</a></h3>
-                                <p>Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text </p>
+                                <span>Teacher</span>
+                                <h3><a href="#">Ngobeni</a></h3>
+                                <p>Teaches in Foundation Phase and responsible for Grade 2 class specialising in Xitsonga</p>
                             </div>
                         </div>
                         <div class="col-md-3 animate-box text-center">
                             <div class="staff">
-                                <div class="staff-img" style="background-image: url(images/staff-3.jpg);">
+                                <div class="staff-img" style="background-image: url(images/mpontshane.jpg);">
                                     <ul class="fh5co-social">
                                         <li><a href="#"><i class="icon-facebook2"></i></a></li>
                                         <li><a href="#"><i class="icon-twitter2"></i></a></li>
@@ -260,9 +250,9 @@
                                         <li><a href="#"><i class="icon-github"></i></a></li>
                                     </ul>
                                 </div>
-                                <span>Demo Role</span>
-                                <h3><a href="#">Demo Name</a></h3>
-                                <p>Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text </p>
+                                <span>Teacher</span>
+                                <h3><a href="#">Mpontshane</a></h3>
+                                <p>Responsibilities include Mathematics, Life Skills, and the Sixth and Seventh Grade</p>
                             </div>
                         </div>
                     </div>
@@ -330,7 +320,7 @@
         <script src="js/simplyCountdown.js"></script>
         <!-- Main -->
         <script src="js/main.js"></script>
-        
+
     </body>
 </html>
 
