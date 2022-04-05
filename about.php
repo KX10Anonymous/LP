@@ -123,13 +123,20 @@
             <aside id="fh5co-hero">
                 <div class="flexslider">
                     <ul class="slides">
-                        <li style="background-image: url(images/children1.jpg);">
+                        <li style="background-image: url(images/children10.jpeg);">
                             <div class="overlay-gradient"></div>
                             <div class="container">
                                 <div class="row">
                                     <div class="col-md-8 col-md-offset-2 text-center slider-text">
                                         <div class="slider-text-inner">
                                             <h1 class="heading-section">About Us</h1>
+                                            <p>Teachers: 58 <br>
+                                               Students: 1842 <br>
+                                               Phase: PRIMARY SCHOOL <br>
+                                               Ownership: STATE <br>
+                                               Build: Since 12/31/1899 <br>
+                                               Fees: NO
+                                            </p>
                                         </div>
                                     </div>
                                 </div>
@@ -141,24 +148,10 @@
 
             <div id="fh5co-about">
                 <div class="container">
-                    <div class="col-md-6 animate-box">
-                        <span>About School</span>
-                        <h2>Welcome Lawley Primary School</h2>
-                        <p>Our vision is to develop well rounded, confident and responsible individuals who aspire to achieve their full potential. We will do this by providing a welcoming, happy, safe, and supportive learning environment in which everyone is equal and all achievements are celebrated.</p>
-
-                    </div>
-                    <div class="col-md-6">
-                        <img class="img-responsive" src="images/children1.jpg" alt="Free HTML5 Bootstrap Template">
-                    </div>
-                </div>
-            </div>
-
-            <div id="fh5co-course-categories">
-                <div class="container">
                     <div class="row animate-box">
                         <div class="col-md-6 col-md-offset-3 text-center fh5co-heading">
-                            <h2>Grades</h2>
-                            <p></p>
+                            <h2>Grades Outline</h2>
+                            <p>Our Vision is a community where all children feel loved, respected and encouraged to develop to their fullest potential.</p>
                         </div>
                     </div>
                     <div class="row">
@@ -169,7 +162,7 @@
                                 </span>
                                 <div class="desc">
                                     <h3><a href="#">Grade R</a></h3>
-                                    <p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. Odit ab aliquam dolor eius.</p>
+                                    <p>Grade R also called the Reception Year provides solid academic foundation.</p>
                                 </div>
                             </div>
                         </div>
@@ -180,7 +173,7 @@
                                 </span>
                                 <div class="desc">
                                     <h3><a href="#">Grade 1</a></h3>
-                                    <p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. Odit ab aliquam dolor eius.</p>
+                                    <p>Aim to provide solid cognitive foundation, that is reading, writing.</p>
                                 </div>
                             </div>
                         </div>
@@ -191,7 +184,7 @@
                                 </span>
                                 <div class="desc">
                                     <h3><a href="#">Grade 2</a></h3>
-                                    <p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. Odit ab aliquam dolor eius.</p>
+                                    <p>Continuation from grade 1</p>
                                 </div>
                             </div>
                         </div>
@@ -202,18 +195,18 @@
                                 </span>
                                 <div class="desc">
                                     <h3><a href="#">Grade 3</a></h3>
-                                    <p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. Odit ab aliquam dolor eius.</p>
+                                    <p>This grade is the bridge between the foundation and the intersenior phase.</p>
                                 </div>
                             </div>
                         </div>
                         <div class="col-md-3 col-sm-6 text-center animate-box">
                             <div class="services">
                                 <span class="icon">
-                                    <i class="icon-at"></i>
+                                    <i class="icon-photo"></i>
                                 </span>
                                 <div class="desc">
                                     <h3><a href="#">Grade 4</a></h3>
-                                    <p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. Odit ab aliquam dolor eius.</p>
+                                    <p>With subject structure changing,Learners are introduced to the basic parts of speech and complex numbers.                                               </p>
                                 </div>
                             </div>
                         </div>
@@ -224,29 +217,29 @@
                                 </span>
                                 <div class="desc">
                                     <h3><a href="#">Grade 5</a></h3>
-                                    <p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. Odit ab aliquam dolor eius.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-3 col-sm-6 text-center animate-box">
-                            <div class="services">
-                                <span class="fa">
-                                    <i class="fa-"></i>
-                                </span>
-                                <div class="desc">
-                                    <h3><a href="#">Grade 6</a></h3>
-                                    <p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. Odit ab aliquam dolor eius.</p>
+                                    <p>Complex writing and research, exploring complex mathematical behaviour and figurative langauge.</p>
                                 </div>
                             </div>
                         </div>
                         <div class="col-md-3 col-sm-6 text-center animate-box">
                             <div class="services">
                                 <span class="icon">
-                                    <i class="icon-black-tie"></i>
+                                    <i class="icon-bubble3"></i>
+                                </span>
+                                <div class="desc">
+                                    <h3><a href="#">Grade 6</a></h3>
+                                    <p>Learners begin to be independent, and organizational skills</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6 text-center animate-box">
+                            <div class="services">
+                                <span class="icon">
+                                    <i class="icon-world"></i>
                                 </span>
                                 <div class="desc">
                                     <h3><a href="#">Grade 7</a></h3>
-                                    <p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. Odit ab aliquam dolor eius.</p>
+                                    <p>Aim to equip learners for high school with critical thinking and advanced arithmetic.</p>
                                 </div>
                             </div>
                         </div>
@@ -260,16 +253,16 @@
                 </div>
                 <div class="row">
                     <div class="col-md-3 col-padded">
-                        <a href="#" class="gallery" style="background-image: url(images/project-5.jpg);"></a>
+                        <a href="#" class="gallery" style="background-image: url(images/children2.jpeg);"></a>
                     </div>
                     <div class="col-md-3 col-padded">
-                        <a href="#" class="gallery" style="background-image: url(images/project-2.jpg);"></a>
+                        <a href="#" class="gallery" style="background-image: url(images/class3.jpg);"></a>
                     </div>
                     <div class="col-md-3 col-padded">
-                        <a href="#" class="gallery" style="background-image: url(images/project-3.jpg);"></a>
+                        <a href="#" class="gallery" style="background-image: url(images/children18.jpeg);"></a>
                     </div>
                     <div class="col-md-3 col-padded">
-                        <a href="#" class="gallery" style="background-image: url(images/project-4.jpg);"></a>
+                        <a href="#" class="gallery" style="background-image: url(images/children10.jpeg);"></a>
                     </div>
                 </div>
             </div>

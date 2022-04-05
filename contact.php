@@ -161,7 +161,7 @@
                         </div>
                         <div class="col-md-6 animate-box">
                             <h3>Get In Touch</h3>
-                            <form action="#">
+                            <form method="post" action="<?php echo $_SERVER['PHP_SELF'];?>">
                                 <div class="row form-group">
                                     <div class="col-md-6">
                                         <!-- <label for="fname">First Name</label> -->
@@ -204,21 +204,6 @@
                 </div>
             </div>
             <div id="map" class="fh5co-map"></div>
-
-            <div id="fh5co-register" style="background-image: url(images/img_bg_2.jpg);">
-                <div class="overlay"></div>
-                <div class="row">
-                    <div class="col-md-8 col-md-offset-2 animate-box">
-                        <div class="date-counter text-center">
-                            <h2>Get 400 of Online Courses for Free</h2>
-                            <h3>By Mike Smith</h3>
-                            <div class="simply-countdown simply-countdown-one"></div>
-                            <p><strong>Limited Offer, Hurry Up!</strong></p>
-                            <p><a href="#" class="btn btn-primary btn-lg btn-reg">Register Now!</a></p>
-                        </div>
-                    </div>
-                </div>
-            </div>
 
             <footer id="fh5co-footer" role="contentinfo" style="background-image: url(images/education.jpg);">
                 <div class="overlay"></div>
@@ -277,13 +262,13 @@
         <script src="js/jquery.magnific-popup.min.js"></script>
         <script src="js/magnific-popup-options.js"></script>
         <!-- Google Map -->
-        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCefOgb1ZWqYtj7raVSmN4PL2WkTrc-KyA&sensor=false"></script>
+        <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAOvb7JS2McQdc7VZc0tgHDm5b57Y-4fZM&callback=initMap"></script>
         <script src="js/google_map.js"></script>
         <!-- Count Down -->
         <script src="js/simplyCountdown.js"></script>
         <!-- Main -->
         <script src="js/main.js"></script>
-        
+
     </body>
 </html>
 

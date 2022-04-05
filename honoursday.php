@@ -109,7 +109,7 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Scripting/EmptyPHPWebPage.php to 
             <aside id="fh5co-hero">
                 <div class="flexslider">
                     <ul class="slides">
-                        <li style="background-image: url(images/children1.jpg);">
+                        <li style="background-image: url(images/children18.jpeg);">
                             <div class="overlay-gradient"></div>
                             <div class="container">
                                 <div class="row">
