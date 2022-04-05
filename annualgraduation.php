@@ -106,14 +106,14 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Scripting/EmptyPHPWebPage.php to 
             <aside id="fh5co-hero">
                 <div class="flexslider">
                     <ul class="slides">
-                        <li style="background-image: url(images/img_bg_4.jpg);">
+                        <li style="background-image: url(images/children14.jpg);">
                             <div class="overlay-gradient"></div>
                             <div class="container">
                                 <div class="row">
                                     <div class="col-md-8 col-md-offset-2 text-center slider-text">
                                         <div class="slider-text-inner">
-                                            <h1 class="heading-section">Honours Day</h1>
-                                            <h2>The days where we honours our top performing learners</a></h2>
+                                            <h1 class="heading-section">Graduation Day</h1>
+                                            <h2><a>To actualize and visualize our vision and mission, we offer our learners and parents an opportunity to celebrate educational milestones at Grade R and 7.</a></h2>
                                         </div>
                                     </div>
                                 </div>
@@ -129,33 +129,138 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Scripting/EmptyPHPWebPage.php to 
                     <div class="container">
                         <div class="row animate-box">
                             <div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
-                                <h2>Blog &amp; Events</h2>
-                                <p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. Odit ab aliquam dolor eius.</p>
+                                <h2>Graduation Day</h2>
+                                <p></p>
                             </div>
                         </div>
-                        <div class="row row-padded-mb">
-                            <div class="col-md-4 animate-box">
-                                <div class="fh5co-event">
-                                    <div class="date text-center"><span>15<br>Mar.</span></div>
-                                    <h3><a href="#">Mini Olympics</a></h3>
-                                    <p>Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text</p>
-                                    <p><a href="#">Read More</a></p>
+                        <div class="row">
+                            <div class="col-lg-4 col-md-4">
+                                <div class="fh5co-blog animate-box">
+                                    <a href="#" class="blog-img-holder" style="background-image: url(images/project-1.jpg);"></a>
+                                    <div class="blog-text">
+                                        
+                                    </div> 
                                 </div>
                             </div>
-                            <div class="col-md-4 animate-box">
-                                <div class="fh5co-event">
-                                    <div class="date text-center"><span>15<br>Mar.</span></div>
-                                    <h3><a href="#">2021 Graduation Day</a></h3>
-                                    <p>Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text</p>
-                                    <p><a href="#">Read More</a></p>
+                            <div class="col-lg-4 col-md-4">
+                                <div class="fh5co-blog animate-box">
+                                    <a href="#" class="blog-img-holder" style="background-image: url(images/project-2.jpg);"></a>
+                                    <div class="blog-text">
+                                        <h3><a href="#"></a></h3>
+                                        <span class="posted_on"></span>
+                                        <span class="comment"><a href=""><i class=""></i></a></span>
+                                        <p></p>
+                                    </div> 
                                 </div>
                             </div>
-                            <div class="col-md-4 animate-box">
-                                <div class="fh5co-event">
-                                    <div class="date text-center"><span>15<br>Mar.</span></div>
-                                    <h3><a href="#">2021 Career Day</a></h3>
-                                    <p>Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text</p>
-                                    <p><a href="#">Read More</a></p>
+                            <div class="col-lg-4 col-md-4">
+                                <div class="fh5co-blog animate-box">
+                                    <a href="#" class="blog-img-holder" style="background-image: url(images/project-3.jpg);"></a>
+                                    <div class="blog-text">
+                                        <h3><a href="#"></a></h3>
+                                        <span class="posted_on"></span>
+                                        <span class="comment"><a href=""><i class=""></i></a></span>
+                                        <p></p>
+                                    </div> 
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="row">
+                            <div class="col-lg-4 col-md-4">
+                                <div class="fh5co-blog animate-box">
+                                    <a href="#" class="blog-img-holder" style="background-image: url(images/project-1.jpg);"></a>
+                                    <div class="blog-text">
+                                        
+                                    </div> 
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-4">
+                                <div class="fh5co-blog animate-box">
+                                    <a href="#" class="blog-img-holder" style="background-image: url(images/project-2.jpg);"></a>
+                                    <div class="blog-text">
+                                        <h3><a href="#"></a></h3>
+                                        <span class="posted_on"></span>
+                                        <span class="comment"><a href=""><i class=""></i></a></span>
+                                        <p></p>
+                                    </div> 
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-4">
+                                <div class="fh5co-blog animate-box">
+                                    <a href="#" class="blog-img-holder" style="background-image: url(images/project-3.jpg);"></a>
+                                    <div class="blog-text">
+                                        <h3><a href="#"></a></h3>
+                                        <span class="posted_on"></span>
+                                        <span class="comment"><a href=""><i class=""></i></a></span>
+                                        <p></p>
+                                    </div> 
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="row">
+                            <div class="col-lg-4 col-md-4">
+                                <div class="fh5co-blog animate-box">
+                                    <a href="#" class="blog-img-holder" style="background-image: url(images/project-1.jpg);"></a>
+                                    <div class="blog-text">
+                                        
+                                    </div> 
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-4">
+                                <div class="fh5co-blog animate-box">
+                                    <a href="#" class="blog-img-holder" style="background-image: url(images/project-2.jpg);"></a>
+                                    <div class="blog-text">
+                                        <h3><a href="#"></a></h3>
+                                        <span class="posted_on"></span>
+                                        <span class="comment"><a href=""><i class=""></i></a></span>
+                                        <p></p>
+                                    </div> 
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-4">
+                                <div class="fh5co-blog animate-box">
+                                    <a href="#" class="blog-img-holder" style="background-image: url(images/project-3.jpg);"></a>
+                                    <div class="blog-text">
+                                        <h3><a href="#"></a></h3>
+                                        <span class="posted_on"></span>
+                                        <span class="comment"><a href=""><i class=""></i></a></span>
+                                        <p></p>
+                                    </div> 
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="row">
+                            <div class="col-lg-4 col-md-4">
+                                <div class="fh5co-blog animate-box">
+                                    <a href="#" class="blog-img-holder" style="background-image: url(images/project-1.jpg);"></a>
+                                    <div class="blog-text">
+                                        
+                                    </div> 
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-4">
+                                <div class="fh5co-blog animate-box">
+                                    <a href="#" class="blog-img-holder" style="background-image: url(images/project-2.jpg);"></a>
+                                    <div class="blog-text">
+                                        <h3><a href="#"></a></h3>
+                                        <span class="posted_on"></span>
+                                        <span class="comment"><a href=""><i class=""></i></a></span>
+                                        <p></p>
+                                    </div> 
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-4">
+                                <div class="fh5co-blog animate-box">
+                                    <a href="#" class="blog-img-holder" style="background-image: url(images/project-3.jpg);"></a>
+                                    <div class="blog-text">
+                                        <h3><a href="#"></a></h3>
+                                        <span class="posted_on"></span>
+                                        <span class="comment"><a href=""><i class=""></i></a></span>
+                                        <p></p>
+                                    </div> 
                                 </div>
                             </div>
                         </div>
@@ -164,10 +269,7 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Scripting/EmptyPHPWebPage.php to 
                                 <div class="fh5co-blog animate-box">
                                     <a href="#" class="blog-img-holder" style="background-image: url(images/project-1.jpg);"></a>
                                     <div class="blog-text">
-                                        <h3><a href="#">2021 Honours Day</a></h3>
-                                        <span class="posted_on">March. 15th</span>
-                                        <span class="comment"><a href="">21<i class="icon-speech-bubble"></i></a></span>
-                                        <p>Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text</p>
+                                        
                                     </div> 
                                 </div>
                             </div>
@@ -175,10 +277,10 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Scripting/EmptyPHPWebPage.php to 
                                 <div class="fh5co-blog animate-box">
                                     <a href="#" class="blog-img-holder" style="background-image: url(images/project-2.jpg);"></a>
                                     <div class="blog-text">
-                                        <h3><a href="#">Reading Champions</a></h3>
-                                        <span class="posted_on">March. 15th</span>
-                                        <span class="comment"><a href="">21<i class="icon-speech-bubble"></i></a></span>
-                                        <p>Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text</p>
+                                        <h3><a href="#"></a></h3>
+                                        <span class="posted_on"></span>
+                                        <span class="comment"><a href=""><i class=""></i></a></span>
+                                        <p></p>
                                     </div> 
                                 </div>
                             </div>
@@ -186,10 +288,628 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Scripting/EmptyPHPWebPage.php to 
                                 <div class="fh5co-blog animate-box">
                                     <a href="#" class="blog-img-holder" style="background-image: url(images/project-3.jpg);"></a>
                                     <div class="blog-text">
-                                        <h3><a href="#">Athletics</a></h3>
-                                        <span class="posted_on">March. 15th</span>
-                                        <span class="comment"><a href="">21<i class="icon-speech-bubble"></i></a></span>
-                                        <p>Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text</p>
+                                        <h3><a href="#"></a></h3>
+                                        <span class="posted_on"></span>
+                                        <span class="comment"><a href=""><i class=""></i></a></span>
+                                        <p></p>
+                                    </div> 
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="row">
+                            <div class="col-lg-4 col-md-4">
+                                <div class="fh5co-blog animate-box">
+                                    <a href="#" class="blog-img-holder" style="background-image: url(images/project-1.jpg);"></a>
+                                    <div class="blog-text">
+                                        
+                                    </div> 
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-4">
+                                <div class="fh5co-blog animate-box">
+                                    <a href="#" class="blog-img-holder" style="background-image: url(images/project-2.jpg);"></a>
+                                    <div class="blog-text">
+                                        <h3><a href="#"></a></h3>
+                                        <span class="posted_on"></span>
+                                        <span class="comment"><a href=""><i class=""></i></a></span>
+                                        <p></p>
+                                    </div> 
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-4">
+                                <div class="fh5co-blog animate-box">
+                                    <a href="#" class="blog-img-holder" style="background-image: url(images/project-3.jpg);"></a>
+                                    <div class="blog-text">
+                                        <h3><a href="#"></a></h3>
+                                        <span class="posted_on"></span>
+                                        <span class="comment"><a href=""><i class=""></i></a></span>
+                                        <p></p>
+                                    </div> 
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-lg-4 col-md-4">
+                                <div class="fh5co-blog animate-box">
+                                    <a href="#" class="blog-img-holder" style="background-image: url(images/project-1.jpg);"></a>
+                                    <div class="blog-text">
+                                        
+                                    </div> 
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-4">
+                                <div class="fh5co-blog animate-box">
+                                    <a href="#" class="blog-img-holder" style="background-image: url(images/project-2.jpg);"></a>
+                                    <div class="blog-text">
+                                        <h3><a href="#"></a></h3>
+                                        <span class="posted_on"></span>
+                                        <span class="comment"><a href=""><i class=""></i></a></span>
+                                        <p></p>
+                                    </div> 
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-4">
+                                <div class="fh5co-blog animate-box">
+                                    <a href="#" class="blog-img-holder" style="background-image: url(images/project-3.jpg);"></a>
+                                    <div class="blog-text">
+                                        <h3><a href="#"></a></h3>
+                                        <span class="posted_on"></span>
+                                        <span class="comment"><a href=""><i class=""></i></a></span>
+                                        <p></p>
+                                    </div> 
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="row">
+                            <div class="col-lg-4 col-md-4">
+                                <div class="fh5co-blog animate-box">
+                                    <a href="#" class="blog-img-holder" style="background-image: url(images/project-1.jpg);"></a>
+                                    <div class="blog-text">
+                                        
+                                    </div> 
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-4">
+                                <div class="fh5co-blog animate-box">
+                                    <a href="#" class="blog-img-holder" style="background-image: url(images/project-2.jpg);"></a>
+                                    <div class="blog-text">
+                                        <h3><a href="#"></a></h3>
+                                        <span class="posted_on"></span>
+                                        <span class="comment"><a href=""><i class=""></i></a></span>
+                                        <p></p>
+                                    </div> 
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-4">
+                                <div class="fh5co-blog animate-box">
+                                    <a href="#" class="blog-img-holder" style="background-image: url(images/project-3.jpg);"></a>
+                                    <div class="blog-text">
+                                        <h3><a href="#"></a></h3>
+                                        <span class="posted_on"></span>
+                                        <span class="comment"><a href=""><i class=""></i></a></span>
+                                        <p></p>
+                                    </div> 
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-lg-4 col-md-4">
+                                <div class="fh5co-blog animate-box">
+                                    <a href="#" class="blog-img-holder" style="background-image: url(images/project-1.jpg);"></a>
+                                    <div class="blog-text">
+                                        
+                                    </div> 
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-4">
+                                <div class="fh5co-blog animate-box">
+                                    <a href="#" class="blog-img-holder" style="background-image: url(images/project-2.jpg);"></a>
+                                    <div class="blog-text">
+                                        <h3><a href="#"></a></h3>
+                                        <span class="posted_on"></span>
+                                        <span class="comment"><a href=""><i class=""></i></a></span>
+                                        <p></p>
+                                    </div> 
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-4">
+                                <div class="fh5co-blog animate-box">
+                                    <a href="#" class="blog-img-holder" style="background-image: url(images/project-3.jpg);"></a>
+                                    <div class="blog-text">
+                                        <h3><a href="#"></a></h3>
+                                        <span class="posted_on"></span>
+                                        <span class="comment"><a href=""><i class=""></i></a></span>
+                                        <p></p>
+                                    </div> 
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="row">
+                            <div class="col-lg-4 col-md-4">
+                                <div class="fh5co-blog animate-box">
+                                    <a href="#" class="blog-img-holder" style="background-image: url(images/project-1.jpg);"></a>
+                                    <div class="blog-text">
+                                        
+                                    </div> 
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-4">
+                                <div class="fh5co-blog animate-box">
+                                    <a href="#" class="blog-img-holder" style="background-image: url(images/project-2.jpg);"></a>
+                                    <div class="blog-text">
+                                        <h3><a href="#"></a></h3>
+                                        <span class="posted_on"></span>
+                                        <span class="comment"><a href=""><i class=""></i></a></span>
+                                        <p></p>
+                                    </div> 
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-4">
+                                <div class="fh5co-blog animate-box">
+                                    <a href="#" class="blog-img-holder" style="background-image: url(images/project-3.jpg);"></a>
+                                    <div class="blog-text">
+                                        <h3><a href="#"></a></h3>
+                                        <span class="posted_on"></span>
+                                        <span class="comment"><a href=""><i class=""></i></a></span>
+                                        <p></p>
+                                    </div> 
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-lg-4 col-md-4">
+                                <div class="fh5co-blog animate-box">
+                                    <a href="#" class="blog-img-holder" style="background-image: url(images/project-1.jpg);"></a>
+                                    <div class="blog-text">
+                                        
+                                    </div> 
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-4">
+                                <div class="fh5co-blog animate-box">
+                                    <a href="#" class="blog-img-holder" style="background-image: url(images/project-2.jpg);"></a>
+                                    <div class="blog-text">
+                                        <h3><a href="#"></a></h3>
+                                        <span class="posted_on"></span>
+                                        <span class="comment"><a href=""><i class=""></i></a></span>
+                                        <p></p>
+                                    </div> 
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-4">
+                                <div class="fh5co-blog animate-box">
+                                    <a href="#" class="blog-img-holder" style="background-image: url(images/project-3.jpg);"></a>
+                                    <div class="blog-text">
+                                        <h3><a href="#"></a></h3>
+                                        <span class="posted_on"></span>
+                                        <span class="comment"><a href=""><i class=""></i></a></span>
+                                        <p></p>
+                                    </div> 
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="row">
+                            <div class="col-lg-4 col-md-4">
+                                <div class="fh5co-blog animate-box">
+                                    <a href="#" class="blog-img-holder" style="background-image: url(images/project-1.jpg);"></a>
+                                    <div class="blog-text">
+                                        
+                                    </div> 
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-4">
+                                <div class="fh5co-blog animate-box">
+                                    <a href="#" class="blog-img-holder" style="background-image: url(images/project-2.jpg);"></a>
+                                    <div class="blog-text">
+                                        <h3><a href="#"></a></h3>
+                                        <span class="posted_on"></span>
+                                        <span class="comment"><a href=""><i class=""></i></a></span>
+                                        <p></p>
+                                    </div> 
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-4">
+                                <div class="fh5co-blog animate-box">
+                                    <a href="#" class="blog-img-holder" style="background-image: url(images/project-3.jpg);"></a>
+                                    <div class="blog-text">
+                                        <h3><a href="#"></a></h3>
+                                        <span class="posted_on"></span>
+                                        <span class="comment"><a href=""><i class=""></i></a></span>
+                                        <p></p>
+                                    </div> 
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-lg-4 col-md-4">
+                                <div class="fh5co-blog animate-box">
+                                    <a href="#" class="blog-img-holder" style="background-image: url(images/project-1.jpg);"></a>
+                                    <div class="blog-text">
+                                        
+                                    </div> 
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-4">
+                                <div class="fh5co-blog animate-box">
+                                    <a href="#" class="blog-img-holder" style="background-image: url(images/project-2.jpg);"></a>
+                                    <div class="blog-text">
+                                        <h3><a href="#"></a></h3>
+                                        <span class="posted_on"></span>
+                                        <span class="comment"><a href=""><i class=""></i></a></span>
+                                        <p></p>
+                                    </div> 
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-4">
+                                <div class="fh5co-blog animate-box">
+                                    <a href="#" class="blog-img-holder" style="background-image: url(images/project-3.jpg);"></a>
+                                    <div class="blog-text">
+                                        <h3><a href="#"></a></h3>
+                                        <span class="posted_on"></span>
+                                        <span class="comment"><a href=""><i class=""></i></a></span>
+                                        <p></p>
+                                    </div> 
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="row">
+                            <div class="col-lg-4 col-md-4">
+                                <div class="fh5co-blog animate-box">
+                                    <a href="#" class="blog-img-holder" style="background-image: url(images/project-1.jpg);"></a>
+                                    <div class="blog-text">
+                                        
+                                    </div> 
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-4">
+                                <div class="fh5co-blog animate-box">
+                                    <a href="#" class="blog-img-holder" style="background-image: url(images/project-2.jpg);"></a>
+                                    <div class="blog-text">
+                                        <h3><a href="#"></a></h3>
+                                        <span class="posted_on"></span>
+                                        <span class="comment"><a href=""><i class=""></i></a></span>
+                                        <p></p>
+                                    </div> 
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-4">
+                                <div class="fh5co-blog animate-box">
+                                    <a href="#" class="blog-img-holder" style="background-image: url(images/project-3.jpg);"></a>
+                                    <div class="blog-text">
+                                        <h3><a href="#"></a></h3>
+                                        <span class="posted_on"></span>
+                                        <span class="comment"><a href=""><i class=""></i></a></span>
+                                        <p></p>
+                                    </div> 
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-lg-4 col-md-4">
+                                <div class="fh5co-blog animate-box">
+                                    <a href="#" class="blog-img-holder" style="background-image: url(images/project-1.jpg);"></a>
+                                    <div class="blog-text">
+                                        
+                                    </div> 
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-4">
+                                <div class="fh5co-blog animate-box">
+                                    <a href="#" class="blog-img-holder" style="background-image: url(images/project-2.jpg);"></a>
+                                    <div class="blog-text">
+                                        <h3><a href="#"></a></h3>
+                                        <span class="posted_on"></span>
+                                        <span class="comment"><a href=""><i class=""></i></a></span>
+                                        <p></p>
+                                    </div> 
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-4">
+                                <div class="fh5co-blog animate-box">
+                                    <a href="#" class="blog-img-holder" style="background-image: url(images/project-3.jpg);"></a>
+                                    <div class="blog-text">
+                                        <h3><a href="#"></a></h3>
+                                        <span class="posted_on"></span>
+                                        <span class="comment"><a href=""><i class=""></i></a></span>
+                                        <p></p>
+                                    </div> 
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="row">
+                            <div class="col-lg-4 col-md-4">
+                                <div class="fh5co-blog animate-box">
+                                    <a href="#" class="blog-img-holder" style="background-image: url(images/project-1.jpg);"></a>
+                                    <div class="blog-text">
+                                        
+                                    </div> 
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-4">
+                                <div class="fh5co-blog animate-box">
+                                    <a href="#" class="blog-img-holder" style="background-image: url(images/project-2.jpg);"></a>
+                                    <div class="blog-text">
+                                        <h3><a href="#"></a></h3>
+                                        <span class="posted_on"></span>
+                                        <span class="comment"><a href=""><i class=""></i></a></span>
+                                        <p></p>
+                                    </div> 
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-4">
+                                <div class="fh5co-blog animate-box">
+                                    <a href="#" class="blog-img-holder" style="background-image: url(images/project-3.jpg);"></a>
+                                    <div class="blog-text">
+                                        <h3><a href="#"></a></h3>
+                                        <span class="posted_on"></span>
+                                        <span class="comment"><a href=""><i class=""></i></a></span>
+                                        <p></p>
+                                    </div> 
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-lg-4 col-md-4">
+                                <div class="fh5co-blog animate-box">
+                                    <a href="#" class="blog-img-holder" style="background-image: url(images/project-1.jpg);"></a>
+                                    <div class="blog-text">
+                                        
+                                    </div> 
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-4">
+                                <div class="fh5co-blog animate-box">
+                                    <a href="#" class="blog-img-holder" style="background-image: url(images/project-2.jpg);"></a>
+                                    <div class="blog-text">
+                                        <h3><a href="#"></a></h3>
+                                        <span class="posted_on"></span>
+                                        <span class="comment"><a href=""><i class=""></i></a></span>
+                                        <p></p>
+                                    </div> 
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-4">
+                                <div class="fh5co-blog animate-box">
+                                    <a href="#" class="blog-img-holder" style="background-image: url(images/project-3.jpg);"></a>
+                                    <div class="blog-text">
+                                        <h3><a href="#"></a></h3>
+                                        <span class="posted_on"></span>
+                                        <span class="comment"><a href=""><i class=""></i></a></span>
+                                        <p></p>
+                                    </div> 
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="row">
+                            <div class="col-lg-4 col-md-4">
+                                <div class="fh5co-blog animate-box">
+                                    <a href="#" class="blog-img-holder" style="background-image: url(images/project-1.jpg);"></a>
+                                    <div class="blog-text">
+                                        
+                                    </div> 
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-4">
+                                <div class="fh5co-blog animate-box">
+                                    <a href="#" class="blog-img-holder" style="background-image: url(images/project-2.jpg);"></a>
+                                    <div class="blog-text">
+                                        <h3><a href="#"></a></h3>
+                                        <span class="posted_on"></span>
+                                        <span class="comment"><a href=""><i class=""></i></a></span>
+                                        <p></p>
+                                    </div> 
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-4">
+                                <div class="fh5co-blog animate-box">
+                                    <a href="#" class="blog-img-holder" style="background-image: url(images/project-3.jpg);"></a>
+                                    <div class="blog-text">
+                                        <h3><a href="#"></a></h3>
+                                        <span class="posted_on"></span>
+                                        <span class="comment"><a href=""><i class=""></i></a></span>
+                                        <p></p>
+                                    </div> 
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-lg-4 col-md-4">
+                                <div class="fh5co-blog animate-box">
+                                    <a href="#" class="blog-img-holder" style="background-image: url(images/project-1.jpg);"></a>
+                                    <div class="blog-text">
+                                        
+                                    </div> 
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-4">
+                                <div class="fh5co-blog animate-box">
+                                    <a href="#" class="blog-img-holder" style="background-image: url(images/project-2.jpg);"></a>
+                                    <div class="blog-text">
+                                        <h3><a href="#"></a></h3>
+                                        <span class="posted_on"></span>
+                                        <span class="comment"><a href=""><i class=""></i></a></span>
+                                        <p></p>
+                                    </div> 
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-4">
+                                <div class="fh5co-blog animate-box">
+                                    <a href="#" class="blog-img-holder" style="background-image: url(images/project-3.jpg);"></a>
+                                    <div class="blog-text">
+                                        <h3><a href="#"></a></h3>
+                                        <span class="posted_on"></span>
+                                        <span class="comment"><a href=""><i class=""></i></a></span>
+                                        <p></p>
+                                    </div> 
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="row">
+                            <div class="col-lg-4 col-md-4">
+                                <div class="fh5co-blog animate-box">
+                                    <a href="#" class="blog-img-holder" style="background-image: url(images/project-1.jpg);"></a>
+                                    <div class="blog-text">
+                                        
+                                    </div> 
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-4">
+                                <div class="fh5co-blog animate-box">
+                                    <a href="#" class="blog-img-holder" style="background-image: url(images/project-2.jpg);"></a>
+                                    <div class="blog-text">
+                                        <h3><a href="#"></a></h3>
+                                        <span class="posted_on"></span>
+                                        <span class="comment"><a href=""><i class=""></i></a></span>
+                                        <p></p>
+                                    </div> 
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-4">
+                                <div class="fh5co-blog animate-box">
+                                    <a href="#" class="blog-img-holder" style="background-image: url(images/project-3.jpg);"></a>
+                                    <div class="blog-text">
+                                        <h3><a href="#"></a></h3>
+                                        <span class="posted_on"></span>
+                                        <span class="comment"><a href=""><i class=""></i></a></span>
+                                        <p></p>
+                                    </div> 
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-lg-4 col-md-4">
+                                <div class="fh5co-blog animate-box">
+                                    <a href="#" class="blog-img-holder" style="background-image: url(images/project-1.jpg);"></a>
+                                    <div class="blog-text">
+                                        
+                                    </div> 
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-4">
+                                <div class="fh5co-blog animate-box">
+                                    <a href="#" class="blog-img-holder" style="background-image: url(images/project-2.jpg);"></a>
+                                    <div class="blog-text">
+                                        <h3><a href="#"></a></h3>
+                                        <span class="posted_on"></span>
+                                        <span class="comment"><a href=""><i class=""></i></a></span>
+                                        <p></p>
+                                    </div> 
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-4">
+                                <div class="fh5co-blog animate-box">
+                                    <a href="#" class="blog-img-holder" style="background-image: url(images/project-3.jpg);"></a>
+                                    <div class="blog-text">
+                                        <h3><a href="#"></a></h3>
+                                        <span class="posted_on"></span>
+                                        <span class="comment"><a href=""><i class=""></i></a></span>
+                                        <p></p>
+                                    </div> 
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="row">
+                            <div class="col-lg-4 col-md-4">
+                                <div class="fh5co-blog animate-box">
+                                    <a href="#" class="blog-img-holder" style="background-image: url(images/project-1.jpg);"></a>
+                                    <div class="blog-text">
+                                        
+                                    </div> 
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-4">
+                                <div class="fh5co-blog animate-box">
+                                    <a href="#" class="blog-img-holder" style="background-image: url(images/project-2.jpg);"></a>
+                                    <div class="blog-text">
+                                        <h3><a href="#"></a></h3>
+                                        <span class="posted_on"></span>
+                                        <span class="comment"><a href=""><i class=""></i></a></span>
+                                        <p></p>
+                                    </div> 
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-4">
+                                <div class="fh5co-blog animate-box">
+                                    <a href="#" class="blog-img-holder" style="background-image: url(images/project-3.jpg);"></a>
+                                    <div class="blog-text">
+                                        <h3><a href="#"></a></h3>
+                                        <span class="posted_on"></span>
+                                        <span class="comment"><a href=""><i class=""></i></a></span>
+                                        <p></p>
+                                    </div> 
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-lg-4 col-md-4">
+                                <div class="fh5co-blog animate-box">
+                                    <a href="#" class="blog-img-holder" style="background-image: url(images/project-1.jpg);"></a>
+                                    <div class="blog-text">
+                                        
+                                    </div> 
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-4">
+                                <div class="fh5co-blog animate-box">
+                                    <a href="#" class="blog-img-holder" style="background-image: url(images/project-2.jpg);"></a>
+                                    <div class="blog-text">
+                                        <h3><a href="#"></a></h3>
+                                        <span class="posted_on"></span>
+                                        <span class="comment"><a href=""><i class=""></i></a></span>
+                                        <p></p>
+                                    </div> 
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-4">
+                                <div class="fh5co-blog animate-box">
+                                    <a href="#" class="blog-img-holder" style="background-image: url(images/project-3.jpg);"></a>
+                                    <div class="blog-text">
+                                        <h3><a href="#"></a></h3>
+                                        <span class="posted_on"></span>
+                                        <span class="comment"><a href=""><i class=""></i></a></span>
+                                        <p></p>
+                                    </div> 
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="row">
+                            <div class="col-lg-4 col-md-4">
+                                <div class="fh5co-blog animate-box">
+                                    <a href="#" class="blog-img-holder" style="background-image: url(images/project-1.jpg);"></a>
+                                    <div class="blog-text">
+                                        
+                                    </div> 
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-4">
+                                <div class="fh5co-blog animate-box">
+                                    <a href="#" class="blog-img-holder" style="background-image: url(images/project-2.jpg);"></a>
+                                    <div class="blog-text">
+                                        <h3><a href="#"></a></h3>
+                                        <span class="posted_on"></span>
+                                        <span class="comment"><a href=""><i class=""></i></a></span>
+                                        <p></p>
+                                    </div> 
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-4">
+                                <div class="fh5co-blog animate-box">
+                                    <a href="#" class="blog-img-holder" style="background-image: url(images/project-3.jpg);"></a>
+                                    <div class="blog-text">
+                                        <h3><a href="#"></a></h3>
+                                        <span class="posted_on"></span>
+                                        <span class="comment"><a href=""><i class=""></i></a></span>
+                                        <p></p>
                                     </div> 
                                 </div>
                             </div>

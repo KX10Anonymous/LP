@@ -156,7 +156,7 @@
                                 </div>
                             </div>
                         </li>
-                        <li style="background-image: url(images/children4.jpeg);">
+                        <li style="background-image: url(images/children14.jpg);">
                             <div class="overlay-gradient"></div>
                             <div class="container">
                                 <div class="row">
@@ -343,10 +343,10 @@
                                 <div class="owl-carousel owl-carousel-fullwidth">
                                     <div class="item">
                                         <div class="testimony-slide active text-center">
-                                            <div class="user" style="background-image: url(images/person1.jpg);"></div>
-                                            <span>Demo Name<br><small>Former Learner</small></span>
+                                            <div class="user" style="background-image: url(images/ronnie.jpg);"></div>
+                                            <span>Ronnie Mamidza<br><small>Former Employee</small></span>
                                             <blockquote>
-                                                <p>&ldquo;Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text .&rdquo;</p>
+                                                <p>&ldquo; I came to the school as a nobody, but being in such an environment has propelled me into levels where I feel I am making a difference in the community of Lawley.&rdquo;</p>
                                             </blockquote>
                                         </div>
                                     </div>
@@ -379,56 +379,54 @@
                 <div class="container">
                     <div class="row animate-box">
                         <div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
-                            <h2>Blog &amp; Events</h2>
-                            <p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. Odit ab aliquam dolor eius.</p>
+                            <h2>Events and Activities</h2>
+                            <p>These variety of educational, creative, civic minded and fun school activities that are conducted annually throughout the year. These are generally school wide events, and some of them are open to families to participate or attend.</p>
                         </div>
                     </div>
                     <div class="row row-padded-mb">
                         <div class="col-md-4 animate-box">
                             <div class="fh5co-event">
-                                <div class="date text-center"><span>15<br>Mar.</span></div>
-                                <h3><a href="#">Mini Olympics</a></h3>
-                                <p>Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text</p>
+                                <div class="date text-center"><span>recurring</span></div>
+                                <h3><a href="#">Casual Days</a></h3>
+                                <p>We bring joy to our learners by allowing them to wear any clothing of choice. However, the 1st week of September is the main one as it is used as a fundraiser for various charity organisations.</p>
                                 <p><a href="#">Read More</a></p>
                             </div>
                         </div>
                         <div class="col-md-4 animate-box">
                             <div class="fh5co-event">
-                                <div class="date text-center"><span>15<br>Mar.</span></div>
-                                <h3><a href="#">2021 Graduation Day</a></h3>
-                                <p>Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text</p>
-                                <p><a href="#">Read More</a></p>
+                                <div class="date text-center"><span>15<br>September.</span></div>
+                                <h3><a href="#">Career Day</a></h3>
+                                <p>Our career day is organised once a year. We expose learners and stakeholders of the community to field pioneers, not just in hope of uplifting our learners, but the entire community.</p>
                             </div>
                         </div>
                         <div class="col-md-4 animate-box">
                             <div class="fh5co-event">
-                                <div class="date text-center"><span>15<br>Mar.</span></div>
-                                <h3><a href="#">2021 Career Day</a></h3>
-                                <p>Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text</p>
-                                <p><a href="#">Read More</a></p>
+                                <div class="date text-center"><span>23<br>Sep.</span></div>
+                                <h3><a href="#">Heritage Day</a></h3>
+                                <p>Traditionally, the school celebrates Heritage Day with a vibrant assembly programme that comprises of song, dance and skits to showcase the cultural heritage of all our pupils.</p>
                             </div>
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-lg-4 col-md-4">
                             <div class="fh5co-blog animate-box">
-                                <a href="#" class="blog-img-holder" style="background-image: url(images/project-1.jpg);"></a>
+                                <a href="#" class="blog-img-holder" style="background-image: url(images/award.jpg);"></a>
                                 <div class="blog-text">
-                                    <h3><a href="#">2021 Honours Day</a></h3>
-                                    <span class="posted_on">March. 15th</span>
+                                    <h3><a href="#">Honours Day</a></h3>
+                                    <span class="posted_on">Nov. 11th </span>
                                     <span class="comment"><a href="">21<i class="icon-speech-bubble"></i></a></span>
-                                    <p>Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text</p>
+                                    <p>This ceremony is a focal point of the school calendar when academic excellence is celebrated and recognized</p>
                                 </div> 
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-4">
                             <div class="fh5co-blog animate-box">
-                                <a href="#" class="blog-img-holder" style="background-image: url(images/project-2.jpg);"></a>
+                                <a href="#" class="blog-img-holder" style="background-image: url(images/graduation.jpg);"></a>
                                 <div class="blog-text">
-                                    <h3><a href="#">Reading Champions</a></h3>
-                                    <span class="posted_on">March. 15th</span>
+                                    <h3><a href="#">Graduations</a></h3>
+                                    <span class="posted_on">December. 3rd</span>
                                     <span class="comment"><a href="">21<i class="icon-speech-bubble"></i></a></span>
-                                    <p>Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text</p>
+                                    <p>Showing gratitude to all the students who have achieved a milestone in their studies and welcoming the future of the school and the nation.</p>
                                 </div> 
                             </div>
                         </div>
@@ -437,7 +435,6 @@
                                 <a href="#" class="blog-img-holder" style="background-image: url(images/athletics.jpeg);"></a>
                                 <div class="blog-text">
                                     <h3><a href="#">Athletics</a></h3>
-                                    <span class="posted_on">March. 15th</span>
                                     <span class="comment"><a href="">21<i class="icon-speech-bubble"></i></a></span>
                                     <p>Through all the obstacles of Covid-19 and academic years being lost, our Athletics team gave the school some hope as they progressed all the way to regional competition.</p>
                                 </div> 

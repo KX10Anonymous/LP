@@ -135,33 +135,39 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Scripting/EmptyPHPWebPage.php to 
                     <div class="container">
                         <div class="row animate-box">
                             <div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
-                                <h2>Blog &amp; Events</h2>
-                                <p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. Odit ab aliquam dolor eius.</p>
+                                <h2>Celebration of Excellence</h2>
+                                <p>Prizes are presented in the whole range of subject areas, sporting achievements and work within the community.</p>
                             </div>
                         </div>
-                        <div class="row row-padded-mb">
-                            <div class="col-md-4 animate-box">
-                                <div class="fh5co-event">
-                                    <div class="date text-center"><span>15<br>Mar.</span></div>
-                                    <h3><a href="#">Mini Olympics</a></h3>
-                                    <p>Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text</p>
-                                    <p><a href="#">Read More</a></p>
+                        <div class="row">
+                            <div class="col-lg-4 col-md-4">
+                                <div class="fh5co-blog animate-box">
+                                    <a href="#" class="blog-img-holder" style="background-image: url(images/project-1.jpg);"></a>
+                                    <div class="blog-text">
+                                        
+                                    </div> 
                                 </div>
                             </div>
-                            <div class="col-md-4 animate-box">
-                                <div class="fh5co-event">
-                                    <div class="date text-center"><span>15<br>Mar.</span></div>
-                                    <h3><a href="#">2021 Graduation Day</a></h3>
-                                    <p>Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text</p>
-                                    <p><a href="#">Read More</a></p>
+                            <div class="col-lg-4 col-md-4">
+                                <div class="fh5co-blog animate-box">
+                                    <a href="#" class="blog-img-holder" style="background-image: url(images/project-2.jpg);"></a>
+                                    <div class="blog-text">
+                                        <h3><a href="#"></a></h3>
+                                        <span class="posted_on"></span>
+                                        <span class="comment"><a href=""><i class=""></i></a></span>
+                                        <p></p>
+                                    </div> 
                                 </div>
                             </div>
-                            <div class="col-md-4 animate-box">
-                                <div class="fh5co-event">
-                                    <div class="date text-center"><span>15<br>Mar.</span></div>
-                                    <h3><a href="#">2021 Career Day</a></h3>
-                                    <p>Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text</p>
-                                    <p><a href="#">Read More</a></p>
+                            <div class="col-lg-4 col-md-4">
+                                <div class="fh5co-blog animate-box">
+                                    <a href="#" class="blog-img-holder" style="background-image: url(images/project-3.jpg);"></a>
+                                    <div class="blog-text">
+                                        <h3><a href="#"></a></h3>
+                                        <span class="posted_on"></span>
+                                        <span class="comment"><a href=""><i class=""></i></a></span>
+                                        <p></p>
+                                    </div> 
                                 </div>
                             </div>
                         </div>
@@ -170,10 +176,7 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Scripting/EmptyPHPWebPage.php to 
                                 <div class="fh5co-blog animate-box">
                                     <a href="#" class="blog-img-holder" style="background-image: url(images/project-1.jpg);"></a>
                                     <div class="blog-text">
-                                        <h3><a href="#">2021 Honours Day</a></h3>
-                                        <span class="posted_on">March. 15th</span>
-                                        <span class="comment"><a href="">21<i class="icon-speech-bubble"></i></a></span>
-                                        <p>Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text</p>
+                                        
                                     </div> 
                                 </div>
                             </div>
@@ -181,10 +184,10 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Scripting/EmptyPHPWebPage.php to 
                                 <div class="fh5co-blog animate-box">
                                     <a href="#" class="blog-img-holder" style="background-image: url(images/project-2.jpg);"></a>
                                     <div class="blog-text">
-                                        <h3><a href="#">Reading Champions</a></h3>
-                                        <span class="posted_on">March. 15th</span>
-                                        <span class="comment"><a href="">21<i class="icon-speech-bubble"></i></a></span>
-                                        <p>Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text</p>
+                                        <h3><a href="#"></a></h3>
+                                        <span class="posted_on"></span>
+                                        <span class="comment"><a href=""><i class=""></i></a></span>
+                                        <p></p>
                                     </div> 
                                 </div>
                             </div>
@@ -192,10 +195,10 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Scripting/EmptyPHPWebPage.php to 
                                 <div class="fh5co-blog animate-box">
                                     <a href="#" class="blog-img-holder" style="background-image: url(images/project-3.jpg);"></a>
                                     <div class="blog-text">
-                                        <h3><a href="#">Athletics</a></h3>
-                                        <span class="posted_on">March. 15th</span>
-                                        <span class="comment"><a href="">21<i class="icon-speech-bubble"></i></a></span>
-                                        <p>Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text</p>
+                                        <h3><a href="#"></a></h3>
+                                        <span class="posted_on"></span>
+                                        <span class="comment"><a href=""><i class=""></i></a></span>
+                                        <p></p>
                                     </div> 
                                 </div>
                             </div>

@@ -134,41 +134,41 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Scripting/EmptyPHPWebPage.php to 
                         <div class="row animate-box">
                             <div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
                                 <h2>Our Uniform Catalog</h2>
-                                <p></p>
+                                <p>Our uniform is available at Concord Outfitters Next To Amazon Pets, 36 Concord Pl, Lenasia, Johannesburg, 1821</p>
                             </div>
                         </div>
 
                         <div class="row">
                             <div class="col-lg-4 col-md-4">
                                 <div class="fh5co-blog animate-box">
-                                    <a href="#" class="blog-img-holder" style="background-image: url(images/project-1.jpg);"></a>
+                                    <a href="#" class="blog-img-holder" style="background-image: url(images/trouser.jpg);"></a>
                                     <div class="blog-text">
-                                        <h3><a href="#">Tunic</a></h3>
-                                        <span class="posted_on">March. 15th</span>
+                                        <h3><a href="#">Trouser</a></h3>
+                                        <span class="posted_on">R125.00</span>
+                                        <span class="comment"><a href="">Grey for Boys<i class="icon-speech-bubble"></i></a></span>
+                                        <p></p>
+                                    </div> 
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-4">
+                                <div class="fh5co-blog animate-box">
+                                    <a href="#" class="blog-img-holder" style="background-image: url(images/shirt.jpg);"></a>
+                                    <div class="blog-text">
+                                        <h3><a href="#">Short Sleeve Shirt</a></h3>
+                                        <span class="posted_on">R75.00</span>
                                         <span class="comment"><a href="">Powder Blue<i class="icon-speech-bubble"></i></a></span>
-                                        <p>Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text</p>
+                                        <p></p>
                                     </div> 
                                 </div>
                             </div>
                             <div class="col-lg-4 col-md-4">
                                 <div class="fh5co-blog animate-box">
-                                    <a href="#" class="blog-img-holder" style="background-image: url(images/project-2.jpg);"></a>
+                                    <a href="#" class="blog-img-holder" style="background-image: url(images/socks.jpg);"></a>
                                     <div class="blog-text">
-                                        <h3><a href="#">Skirk</a></h3>
-                                        <span class="posted_on">March. 15th</span>
-                                        <span class="comment"><a href="">Navy Blue<i class="icon-speech-bubble"></i></a></span>
-                                        <p>Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text</p>
-                                    </div> 
-                                </div>
-                            </div>
-                            <div class="col-lg-4 col-md-4">
-                                <div class="fh5co-blog animate-box">
-                                    <a href="#" class="blog-img-holder" style="background-image: url(images/project-3.jpg);"></a>
-                                    <div class="blog-text">
-                                        <h3><a href="#">Athletics</a></h3>
-                                        <span class="posted_on">March. 15th</span>
-                                        <span class="comment"><a href="">21<i class="icon-speech-bubble"></i></a></span>
-                                        <p>Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text</p>
+                                        <h3><a href="#">Socks</a></h3>
+                                        <span class="posted_on">R50.00</span>
+                                        <span class="comment"><a href="">Navy Blue Stripes<i class="icon-speech-bubble"></i></a></span>
+                                        <p></p>
                                     </div> 
                                 </div>
                             </div>
@@ -179,34 +179,31 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Scripting/EmptyPHPWebPage.php to 
                         <div class="row">
                             <div class="col-lg-4 col-md-4">
                                 <div class="fh5co-blog animate-box">
-                                    <a href="#" class="blog-img-holder" style="background-image: url(images/project-1.jpg);"></a>
+                                    <a href="#" class="blog-img-holder" style="background-image: url(images/tunic.jpg);"></a>
                                     <div class="blog-text">
                                         <h3><a href="#">Tunic</a></h3>
-                                        <span class="posted_on">March. 15th</span>
+                                        <span class="posted_on">R250.00</span>
                                         <span class="comment"><a href="">Powder Blue<i class="icon-speech-bubble"></i></a></span>
-                                        <p>Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text</p>
                                     </div> 
                                 </div>
                             </div>
                             <div class="col-lg-4 col-md-4">
                                 <div class="fh5co-blog animate-box">
-                                    <a href="#" class="blog-img-holder" style="background-image: url(images/project-2.jpg);"></a>
+                                    <a href="#" class="blog-img-holder" style="background-image: url(images/skirt.jpg);"></a>
                                     <div class="blog-text">
-                                        <h3><a href="#">Skirk</a></h3>
-                                        <span class="posted_on">March. 15th</span>
+                                        <h3><a href="#">Skirt</a></h3>
+                                        <span class="posted_on">R150.00</span>
                                         <span class="comment"><a href="">Navy Blue<i class="icon-speech-bubble"></i></a></span>
-                                        <p>Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text</p>
                                     </div> 
                                 </div>
                             </div>
                             <div class="col-lg-4 col-md-4">
                                 <div class="fh5co-blog animate-box">
-                                    <a href="#" class="blog-img-holder" style="background-image: url(images/project-3.jpg);"></a>
+                                    <a href="#" class="blog-img-holder" style="background-image: url(images/longshirt.jpg);"></a>
                                     <div class="blog-text">
-                                        <h3><a href="#">Athletics</a></h3>
-                                        <span class="posted_on">March. 15th</span>
-                                        <span class="comment"><a href="">21<i class="icon-speech-bubble"></i></a></span>
-                                        <p>Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text Demo Text</p>
+                                        <h3><a href="#">Long Sleeve Shirt</a></h3>
+                                        <span class="posted_on">R100.00</span>
+                                        <span class="comment"><a href=""><i class="icon-speech-bubble"></i></a></span>
                                     </div> 
                                 </div>
                             </div>

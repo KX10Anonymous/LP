@@ -141,40 +141,71 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Scripting/EmptyPHPWebPage.php to 
                         </div>
                     </div>
                     <div class="row">
-                        <div class="col-md-6 animate-box">
-                            <div class="course">
-                                <a href="#" class="course-img" style="background-image: url(images/soccer.jpg);">
-                                </a>
-                                <div class="desc">
-                                    <h3><a href="football.php">Football</a></h3>
-                                    <p>Our mission is to provide a positive, competitive youth soccer experience for the learner, parent and teacher in charge of the team.</p>
-                                    <span><a href="football.php" class="btn btn-primary btn-sm btn-course">Take a Tour</a></span>
-                                </div>
+                        <div class="col-lg-4 col-md-4">
+                            <div class="fh5co-blog animate-box">
+                                <a href="#" class="blog-img-holder" style="background-image: url(images/children11.jpeg);"></a>
+                                <div class="blog-text">
+
+                                </div> 
                             </div>
                         </div>
-                        <div class="col-md-6 animate-box">
-                            <div class="course">
-                                <a href="#" class="course-img" style="background-image: url(images/netball.jpg);">
-                                </a>
-                                <div class="desc">
-                                    <h3><a href="netball.php">Netball</a></h3>
-                                    <p>“Our vision of making netball fashionable and taking netball back to the people will be attainable when we start initiatives like these, development is very crucial, and I believe that we are headed in the right direction here.” __NetballSA</p>
-                                    <span><a href="netball.php" class="btn btn-primary btn-sm btn-course">Take A Tour</a></span>
-                                </div>
+                        <div class="col-lg-4 col-md-4">
+                            <div class="fh5co-blog animate-box">
+                                <a href="#" class="blog-img-holder" style="background-image: url(images/children5.jpeg);"></a>
+                                <div class="blog-text">
+                                    <h3><a href="#"></a></h3>
+                                    <span class="posted_on"></span>
+                                    <span class="comment"><a href=""><i class=""></i></a></span>
+                                    <p></p>
+                                </div> 
                             </div>
                         </div>
-                        <div class="col-md-6 animate-box">
-                            <div class="course">
-                                <a href="#" class="course-img" style="background-image: url(images/athletics.jpg);">
-                                </a>
-                                <div class="desc">
-                                    <h3><a href="athletics.php">Athletics</a></h3>
-                                    <p>Dedicated to providing learner-athletes with a rich co-curricular program that encourages our learners to grow as individuals and leaders by experiencing the importance of being part of a team.</p>
-                                    <span><a href="athletics.php" class="btn btn-primary btn-sm btn-course">Take A Tour</a></span>
-                                </div>
+                        <div class="col-lg-4 col-md-4">
+                            <div class="fh5co-blog animate-box">
+                                <a href="#" class="blog-img-holder" style="background-image: url(images/children13.jpeg);"></a>
+                                <div class="blog-text">
+                                    <h3><a href="#"></a></h3>
+                                    <span class="posted_on"></span>
+                                    <span class="comment"><a href=""><i class=""></i></a></span>
+                                    <p></p>
+                                </div> 
                             </div>
                         </div>
                     </div>
+                    
+                    <div class="row">
+                        <div class="col-lg-4 col-md-4">
+                            <div class="fh5co-blog animate-box">
+                                <a href="#" class="blog-img-holder" style="background-image: url(images/children6.jpeg);"></a>
+                                <div class="blog-text">
+
+                                </div> 
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-4">
+                            <div class="fh5co-blog animate-box">
+                                <a href="#" class="blog-img-holder" style="background-image: url(images/athletics.jpeg);"></a>
+                                <div class="blog-text">
+                                    <h3><a href="#"></a></h3>
+                                    <span class="posted_on"></span>
+                                    <span class="comment"><a href=""><i class=""></i></a></span>
+                                    <p></p>
+                                </div> 
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-4">
+                            <div class="fh5co-blog animate-box">
+                                <a href="#" class="blog-img-holder" style="background-image: url(images/children13.jpeg);"></a>
+                                <div class="blog-text">
+                                    <h3><a href="#"></a></h3>
+                                    <span class="posted_on"></span>
+                                    <span class="comment"><a href=""><i class=""></i></a></span>
+                                    <p></p>
+                                </div> 
+                            </div>
+                        </div>
+                    </div>
+                    
                 </div>
             </div>
         </div>
