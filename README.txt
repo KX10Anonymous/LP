@@ -3,8 +3,8 @@ TITLE:
 Lawley Primary
 
 AUTHOR:
-DESIGNED & DEVELOPED by Ronnie Mamidza
-
+ELEMENTS DESIGNED BY Colorlib.
+COMPILED by Ronnie Mamidza
 
 
 CREDITS:
